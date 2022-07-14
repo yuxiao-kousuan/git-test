@@ -10,7 +10,7 @@ In most cases, the only two commands you might want to use are:
 
 The second command will run all benchmarks but skip the build process. This is useful for when doing local performance tweaking and the remote repo has already had its bundles built. Both local and remote repos will be run against all benchmarks with this command too. abc
 
-修改内容
+这是修改的内容
 
 
 # will compare local repo vs remote merge base repo
